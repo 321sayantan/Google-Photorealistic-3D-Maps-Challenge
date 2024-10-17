@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <h1>hi</h1>
+      <h1>Photorealistic 3D Map</h1>
     </>
   )
 }
